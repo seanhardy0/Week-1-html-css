@@ -1,0 +1,181 @@
+
+
+
+.heading h1{
+border-top: blue solid;
+border-left: blue solid;
+border-right: blue solid;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-style: italic;
+font-size: xx-large;
+background: #f4f4f4;
+margin-top: 40px;
+}
+
+
+.heading p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 15px;
+text-decoration: wavy;
+
+
+}
+
+
+.heading img{
+
+    position: relative;
+    bottom: -35px;
+    right: 60px;
+padding-top: 100px;
+padding-left: 33.3%;
+
+
+
+}
+
+
+.heading a{
+
+
+
+position: relative;
+top: -120px;
+left: -450px;
+
+}
+
+
+
+
+.button{
+
+
+padding-left: 33%;
+
+
+
+
+
+}
+
+
+a:hover{
+
+color: red;
+background-color: 333;
+
+}
+
+
+a:active{
+
+
+color: green;
+
+
+}
+
+
+
+.image1{
+position: relative;
+top: -260px;
+padding-top: -1px;
+
+}
+
+
+
+.image2{
+position: relative;
+top: -515px;
+padding-bottom: 20%;
+padding-left: 71%;
+
+
+
+}
+
+
+
+.heading2 h2{
+    border-top: blue solid;
+    padding-top: 5px;
+position: relative;
+top: -800px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+padding-left: 3px;
+text-decoration: underline;
+text-align: center;
+
+
+
+
+}
+
+
+.heading2 p{
+position: relative;
+top: -800px;
+padding-left: 3px;
+box-sizing: border-box;
+
+}
+
+
+.formgroup{
+
+position: absolute;
+top: 5%;
+right: 1%;
+
+
+
+}
+
+
+
+.formgroup label{
+
+
+display: block;
+
+
+}
+
+.formgroup input[type="submit"]{
+
+background-color: #333;
+color: #fff;
+padding: 10px 15px;
+
+
+
+
+}
+
+
+
+
+.list{
+
+position: relative;
+top: 650px;
+right: 1200px;
+
+}
+
+
+
+
+
+
+
+
+
+
